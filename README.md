@@ -64,11 +64,9 @@ The primary goal of this project was to build **data-driven machine learning mod
 ---
 
 ## 🧠 Learnings & Outcomes
--Hands-on experience with real-world real estate datasets
-
--Strong understanding of feature engineering and model evaluation
-
--Built ML solutions aligned with business and investor needs
+- Hands-on experience with real-world real estate datasets
+- Strong understanding of feature engineering and model evaluation
+- Built ML solutions aligned with business and investor needs
 
 ---
 
