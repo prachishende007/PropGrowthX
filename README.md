@@ -23,7 +23,11 @@ The primary goal of this project was to build **data-driven machine learning mod
 - **Machine Learning Techniques:**  
   - Regression models (Linear Regression, Random Forest, etc.)  
   - Feature engineering  
-  - Model evaluation and hyperparameter tuning  
+  - Model evaluation and hyperparameter tuning
+- **Web Scraping Techniques:**  
+  - Data collection from web sources (structured and unstructured data)  
+  - Data cleaning and feature extraction
+  - Feature integration and validation for model improvement
 
 ---
 
